@@ -1,4 +1,4 @@
-# Drizzle Studio package 📦
+# Drizzle Studio NPM Package 📦
 If you're looking for a Drizzle Studio NPM package to install into your product - you're in the right place.  
 ![image](https://github.com/drizzle-team/drizzle-studio-npm/assets/4045375/9ac739e0-ec3d-4902-840d-abb3b71e3f17)
 
@@ -27,8 +27,8 @@ Drizzle Studio is a web based modern database browser which comes in a form of:
 
 We also have a set of companies using embeddable Drizzle Studio components for internal use cases
   
-Drizzle Studio is highly customisable and we have an advanced [theming platform](https://drizzle.studio) and we add various partner-specific customizations on demand 👍  
+Drizzle Studio is highly customisable and we have an advanced [theming platform](https://drizzle.studio), we have an opt-in SQL query runner and we can add various partner-specific customizations on demand 👍  
   
 Pricing depends on the size of you platform and if it's going to be customer facing or internal, and we do have reduced pricing for Sponsors if you you're interested in supporting our OSS venue and have brand awareness and a relevant traffic to your offering!
   
-Feel free to reach out on [x](https://x.com/drizzleorm), in our [Discord](https://driz.link/discord) or via [mail](mailto:aleksandrblokh@gmail.com)!
+Feel free to reach out on [𝕏](https://x.com/drizzleorm), in our [Discord](https://driz.link/discord) or via [mail](mailto:aleksandrblokh@gmail.com)!
