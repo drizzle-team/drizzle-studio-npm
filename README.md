@@ -1,5 +1,7 @@
 # Drizzle Studio NPM Package 📦
-If you're looking for a Drizzle Studio NPM package to install into your product - you're in the right place.  
+If you're looking for a Drizzle Studio NPM package to install into your product - you're in the right place!
+<br>
+
 ![image](https://github.com/drizzle-team/drizzle-studio-npm/assets/4045375/9ac739e0-ec3d-4902-840d-abb3b71e3f17)
 
   
@@ -39,7 +41,50 @@ in-place editable **JSON** support:
 **Advanced filtering** and lots of other useful stuff:
 ![image](https://github.com/drizzle-team/drizzle-studio-npm/assets/4045375/8bbc4146-e66d-4231-9240-253335002032)
 
+### Integration
+We distribute Drizzle Studio as a private npm package and here's how in-code integration looks like:
+```ts
+import type { DrizzleStudioRef } from '@drizzle-team/your-company-studio';
+import StudioScript from '@drizzle-team/your-company-studio?raw';
 
+
+const lightCssVariables = {
+  "--background": "#ffffff",
+  ...
+};
+const darkCssVariables = { ... };
+
+
+function App() {
+  // create a ref to the drizzle-studio component
+  const studioRef = useRef<DrizzleStudioRef>(null);
+  const [theme, setTheme] = useState<'light' | 'dark'>('light');
+
+  return (
+    <div style={{
+      height: '100%',
+      width: '100%',
+      display: 'flex',
+      flexDirection: 'column',
+    }}>
+      <button onClick={() => setTheme(theme === 'light' ? 'dark' : 'light')}>
+        Change theme
+      </ button>
+      <drizzle-studio
+        ref={studioRef}
+        css-variables={JSON.stringify(theme === 'light' ? lightCssVariables : darkCssVariables)} // styling 
+        title="Drizzle Studio"
+        style={{
+          flexGrow: 1,
+          minHeight: 0,
+        }}
+      />
+    </div>
+  )
+}
+
+export default App
+```
 
 ### Pricing
 Pricing depends on the size of you platform and if it's going to be customer facing or internal, and we do have reduced pricing for Sponsors if you you're interested in supporting our OSS venue and have brand awareness and a relevant traffic to your offering!
