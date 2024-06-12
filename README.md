@@ -26,9 +26,22 @@ Drizzle Studio is a web based modern database browser which comes in a form of:
 <br>
 
 We also have a set of companies using embeddable Drizzle Studio components for internal use cases
-  
+
+### Customisations
 Drizzle Studio is highly customisable and we have an advanced [theming platform](https://drizzle.studio), we have an opt-in SQL query runner and we can add various partner-specific customizations on demand 👍  
-  
+
+Drizzle Studio has an **opt-in SQL query runner**:
+![image](https://github.com/drizzle-team/drizzle-studio-npm/assets/4045375/6e179d12-5026-4b9f-8e52-f4aa8ae8e883)
+
+in-place editable **JSON** support:
+<img width="1447" alt="Screenshot 2024-06-12 at 14 39 16" src="https://github.com/drizzle-team/drizzle-studio-npm/assets/4045375/f91bd27b-c868-4010-8309-465876529e81">
+
+**Advanced filtering** and lots of other useful stuff:
+![image](https://github.com/drizzle-team/drizzle-studio-npm/assets/4045375/8bbc4146-e66d-4231-9240-253335002032)
+
+
+
+### Pricing
 Pricing depends on the size of you platform and if it's going to be customer facing or internal, and we do have reduced pricing for Sponsors if you you're interested in supporting our OSS venue and have brand awareness and a relevant traffic to your offering!
   
 Feel free to reach out on [𝕏](https://x.com/drizzleorm), in our [Discord](https://driz.link/discord) or via [mail](mailto:aleksandrblokh@gmail.com)!
