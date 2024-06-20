@@ -19,7 +19,7 @@ Drizzle Studio is a web based modern database browser which comes in a form of:
 **Database platforms using Drizzle Studio:**
 - [Turso](https://turso.tech), our first customers since Oct 2023!
 - [Neon](https://neon.tech), [launch post](https://neon.tech/docs/changelog/2024-05-24)
-- [Hydra](https://https://www.hydra.so/), undergoing integration
+- [Hydra](https://www.hydra.so/), undergoing integration
 
 **Data Centric platforms using Drizzle Studio:**
 - [Nuxt Hub](https://hub.nuxt.com), Sébastien Chopin's [lauch post](https://x.com/Atinux/status/1768663789832929520)
