@@ -22,7 +22,7 @@ Drizzle Studio is a web based modern database browser which comes in a form of:
 - [Hydra](https://www.hydra.so/), undergoing integration
 
 **Data Centric platforms using Drizzle Studio:**
-- [Nuxt Hub](https://hub.nuxt.com), Sébastien Chopin's [lauch post](https://x.com/Atinux/status/1768663789832929520)
+- [Nuxt Hub](https://hub.nuxt.com), Sébastien Chopin's [launch post](https://x.com/Atinux/status/1768663789832929520)
 - [Deco](https://deco.cx/), undergoing integration
 
 <br>
