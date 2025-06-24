@@ -27,7 +27,7 @@ Drizzle Studio is a web based modern database browser which comes in a form of:
 - [Replit](https://repl.it), [launch post](https://blog.replit.com/database-editor)
 - [Kinsta](https://kinsta.com/)
 - [Create](https://create.xyz), [launch post](https://x.com/create_xyz/status/1889479526499098830)
-- [Gibsonai](https://www.gibsonai.com /), [blog post](https://www.gibsonai.com/blog/announcing-gibsonai-2-0-your-database-supercharged) [video](https://www.youtube.com/watch?v=87g5tL3SWhI)
+- [Gibsonai](https://www.gibsonai.com/), [blog post](https://www.gibsonai.com/blog/announcing-gibsonai-2-0-your-database-supercharged) [video](https://www.youtube.com/watch?v=87g5tL3SWhI)
 - [Sevalla](https://sevalla.com/)
 
 **Data centric platforms using Drizzle Studio:**
