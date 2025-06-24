@@ -17,15 +17,20 @@ Drizzle Studio is a web based modern database browser which comes in a form of:
 `Drizzle Studio embeddable Component` - is a pre-bundled framework agnostic web component of Drizzle Studio which you can embed into your UI(React/Vue/Svelte/VanillaJS/whatever). That is an extremely powerful UI element that can elevate your offering if you provide Database as a SaaS or a data centric SaaS solutions based on SQL or for private non-customer facing in-house usage.  
   
 **Database platforms using Drizzle Studio:**
-- [Replit](https://repl.it), [launch post](https://blog.replit.com/database-editor)
 - [Turso](https://turso.tech), our first customers since Oct 2023!
 - [Neon](https://neon.tech), [launch post](https://neon.tech/docs/changelog/2024-05-24)
-- [Create](https://create.xyz), [launch post](https://x.com/create_xyz/status/1889479526499098830)
 - [Tembo](https://tembo.io), [launch post](https://tembo.io/blog/announcing-sql-editor)
 - [SQLite Cloud](https://sqlitecloud.io/), [launch post](https://blog.sqlitecloud.io/release-notes-introducing-database-studio-in-sqlite-cloud)
 - [Hydra](https://www.hydra.so/)
 
-**Data Centric platforms using Drizzle Studio:**
+** AI powered platforms for building apps and websites**
+- [Replit](https://repl.it), [launch post](https://blog.replit.com/database-editor)
+- [Kinsta](https://kinsta.com/)
+- [Create](https://create.xyz), [launch post](https://x.com/create_xyz/status/1889479526499098830)
+- [Gibsonai](https://www.gibsonai.com /), [blog post](https://www.gibsonai.com/blog/announcing-gibsonai-2-0-your-database-supercharged) [video](https://www.youtube.com/watch?v=87g5tL3SWhI)
+- [Sevalla](https://sevalla.com/)
+
+**Data centric platforms using Drizzle Studio:**
 - [Nuxt Hub](https://hub.nuxt.com), Sébastien Chopin's [lauch post](https://x.com/Atinux/status/1768663789832929520)
 - [Deco](https://deco.cx/), undergoing integration
 
