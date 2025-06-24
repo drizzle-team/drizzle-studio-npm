@@ -22,8 +22,8 @@ Drizzle Studio is a web based modern database browser which comes in a form of:
 - [Tembo](https://tembo.io), [launch post](https://tembo.io/blog/announcing-sql-editor)
 - [SQLite Cloud](https://sqlitecloud.io/), [launch post](https://blog.sqlitecloud.io/release-notes-introducing-database-studio-in-sqlite-cloud)
 - [Hydra](https://www.hydra.so/)
-
-** AI powered platforms for building apps and websites**
+  
+**AI powered platforms for building apps and websites**
 - [Replit](https://repl.it), [launch post](https://blog.replit.com/database-editor)
 - [Kinsta](https://kinsta.com/)
 - [Create](https://create.xyz), [launch post](https://x.com/create_xyz/status/1889479526499098830)
