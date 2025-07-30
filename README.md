@@ -19,12 +19,13 @@ Drizzle Studio is a web based modern database browser which comes in a form of:
 **Database platforms using Drizzle Studio:**
 - [Turso](https://turso.tech), our first customers since Oct 2023!
 - [Neon](https://neon.tech), [launch post](https://neon.tech/docs/changelog/2024-05-24)
-- [Tembo](https://tembo.io), [launch post](https://tembo.io/blog/announcing-sql-editor)
 - [SQLite Cloud](https://sqlitecloud.io/), [launch post](https://blog.sqlitecloud.io/release-notes-introducing-database-studio-in-sqlite-cloud)
 - [Hydra](https://www.hydra.so/)
+- [Tembo](https://tembo.io), [launch post](https://tembo.io/blog/announcing-sql-editor)
   
 **AI powered platforms for building apps and websites**
 - [Replit](https://repl.it), [launch post](https://blog.replit.com/database-editor)
+- [Deno](https://deno.com/deploy), [launch post](https://x.com/rough__sea/status/1950231545807327329)
 - [Kinsta](https://kinsta.com/)
 - [Create.xyz](https://create.xyz), [launch post](https://x.com/create_xyz/status/1889479526499098830)
 - [Gibsonai](https://www.gibsonai.com/), [blog post](https://www.gibsonai.com/blog/announcing-gibsonai-2-0-your-database-supercharged) [video](https://www.youtube.com/watch?v=87g5tL3SWhI)
